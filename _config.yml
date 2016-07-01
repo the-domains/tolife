@@ -1,0 +1,14 @@
+layout_spectrum: 0.2717028066981584
+typography_spectrum: 0.7268458534963429
+color:
+  brandStrength: 0.9487020494416356
+  lightness: 0.2600709570106119
+  saturation: 0.3375486775767058
+  rhythmicContrast: 0.9118600052315742
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: toLIFE
